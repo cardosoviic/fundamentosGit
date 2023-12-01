@@ -1,6 +1,6 @@
 # Tutorial de Git e Github na prática 
 
-
+# Instalação do Git
 * [link com downloads](https://git-scm.com/downloads)
  
  ## Versionamento local do projeto 
